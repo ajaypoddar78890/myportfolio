@@ -1,7 +1,7 @@
 export const data = [
   {
     id: 1,
-    img: "/src/assets/visigo.png",
+    img: "/assets/visigo.png",
     title: "Visigo Travel",
     desc: "React App",
     link: "https://visigo-ajaypoddar78890s-projects.vercel.app/",
@@ -9,7 +9,7 @@ export const data = [
   },
   {
     id: 2,
-    img: "/src/assets/imdbrating.png",
+    img: " assets/imdbrating.png",
     title: "IMDB Rating ",
     desc: " React App",
     link: "https://imdbrating.vercel.app/",
@@ -17,23 +17,23 @@ export const data = [
   },
   {
     id: 3,
-    img: "/src/assets/deals4wheels.png",
+    img: " assets/deals4wheels.png",
     title: "MoterDealship",
     desc: "UserID:seller Password:seller  FullStackAPP",
     link: "https://deals4wheelss.netlify.app/",
     git: "https://github.com/ajaypoddar78890/Deels4Wheelbackend",
   },
   {
-    id: 3,
-    img: "/src/assets/marcap.png",
+    id: 4,
+    img: " assets/marcap.png",
     title: "Ecommers WebApp",
     desc: "UserID:testing@gmail.com Password:testing     FullStackAPP",
     link: " https://marcap.netlify.app/",
     git: " https://github.com/ajaypoddar78890/marcapecommers",
   },
   {
-    id: 3,
-    img: "/src/assets/saslandingpage.png",
+    id: 5,
+    img: " assets/saslandingpage.png",
     title: "Sass Landing Page",
     desc: "branding the project",
 
@@ -41,8 +41,8 @@ export const data = [
     git: " https://github.com/ajaypoddar78890/SasLandingPage",
   },
   {
-    id: 3,
-    img: "/src/assets/iphone.png",
+    id: 6,
+    img: " assets/iphone.png",
     title: "Iphone 15",
     desc: "clone of i phone 15",
 
@@ -51,8 +51,8 @@ export const data = [
   },
 
   {
-    id: 3,
-    img: "/src/assets/naeem.png",
+    id: 7,
+    img: " assets/naeem.png",
     title: "Naeems Portfolio",
     desc: "naeem's personal portfolio",
 
@@ -60,8 +60,8 @@ export const data = [
     git: "https://github.com/ajaypoddar78890/naeem-portfolio",
   },
   {
-    id: 3,
-    img: "/src/assets/ajai.png",
+    id: 8,
+    img: " assets/ajai.png",
     title: "AJ-AI ",
     desc: "its a full stack ai project about to finished",
     link: "#",
