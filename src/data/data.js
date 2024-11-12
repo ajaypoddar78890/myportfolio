@@ -62,7 +62,7 @@ export const data = [
   {
     id: 8,
     img: " assets/ajai.png",
-    title: " Comming Soon AJ-AI ",
+    title: " Coming Soon AJ-AI ",
     desc: "its a full stack ai project about to finished",
     link: "#",
     git: "https://github.com/ajaypoddar78890/AJ-AI-SASS",

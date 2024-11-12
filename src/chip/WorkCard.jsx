@@ -33,7 +33,7 @@ const WorkCard = () => {
               <div
                 className={` popup w-full  h-[280px] shadow-xl rounded-md overflow-hidden sm:h-[260px] sm:w-[92%] p-4`}
               >
-                <p className=" text-gray-900 text-base leading-[1.4] text-justify w-[90%]">
+                <p className=" text-gray-900 text-xl leading-[1.4] text-justify w-[90%]">
                   {data.desc}
                 </p>
                 <div className=" flex items-center justify-center gap-4">
@@ -73,7 +73,7 @@ const WorkCard = () => {
                 </div>
               </div>
             </POPUP>
-            <p className="text-gray-800 text-xl font-medium sm:text-lg">
+            <p className="text-gray-800 text-2xl mt-5 font-medium sm:text-lg">
               {data.title}
             </p>
           </div>
