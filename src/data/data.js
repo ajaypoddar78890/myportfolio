@@ -34,6 +34,8 @@ export const data = [
   {
     id: 3,
     img: "/src/assets/saslandingpage.png",
+    title: "Sass Landing Page",
+    desc: "branding the project",
 
     link: " https://saslandingpage.vercel.app/",
     git: " https://github.com/ajaypoddar78890/SasLandingPage",
@@ -41,8 +43,28 @@ export const data = [
   {
     id: 3,
     img: "/src/assets/iphone.png",
+    title: "Iphone 15",
+    desc: "clone of i phone 15",
 
     link: " https://newiphone.vercel.app/",
-    git: " https://github.com/ajaypoddar78890/SasLandingPage",
+    git: " https://github.com/ajaypoddar78890/Apple_clone",
+  },
+
+  {
+    id: 3,
+    img: "/src/assets/naeem.png",
+    title: "Naeems Portfolio",
+    desc: "naeem's personal portfolio",
+
+    link: " https://naeemmalik.vercel.app/",
+    git: "https://github.com/ajaypoddar78890/naeem-portfolio",
+  },
+  {
+    id: 3,
+    img: "/src/assets/ajai.png",
+    title: "AJ-AI ",
+    desc: "its a full stack ai project about to finished",
+    link: "#",
+    git: "https://github.com/ajaypoddar78890/AJ-AI-SASS",
   },
 ];
