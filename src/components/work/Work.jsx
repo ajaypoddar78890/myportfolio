@@ -20,7 +20,7 @@ const Work = () => {
       </div>
       {/* card */}
       <div className="card-wrapper mx-auto w-full   mt-5">
-        <div className="card-box grid grid-cols-2 space-y-2   w-full md:grid-cols-2 sm:gap-8 sm:grid-cols-1 sm:space-y-0 ">
+        <div className="card-box grid grid-cols-3 gap-5 space-y-2 w-full  md:grid-cols-2  md:gap-5 sm:grid-cols-1 lg:grid-cols-2 xl:gap-10   ">
           <WorkCard />
         </div>
       </div>
