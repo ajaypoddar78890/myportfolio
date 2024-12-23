@@ -21,14 +21,13 @@ const WorkCard = () => {
             className="flex flex-col justify-center items-center "
           >
             <POPUP className="img-content relative">
-            <div className="w-full max-w-sm sm:max-w-full h-72 sm:h-64 lg:h-80 mx-auto hover:scale-105 transition-transform duration-500 cursor-pointer shadow-xl rounded-md overflow-hidden">
-  <img
-    src={data.img}
-    alt={data.title}
-    className="w-full h-full object-center rounded-md shadow-md transition-transform duration-500 ease-in-out hover:scale-110"
-  />
-</div>
-
+              <div className="w-full max-w-sm sm:max-w-full h-72 sm:h-64 lg:h-80 mx-auto hover:scale-105 transition-transform duration-500 cursor-pointer shadow-xl rounded-md overflow-hidden">
+                <img
+                  src={data.img}
+                  alt={data.title}
+                  className="w-full h-full object-center rounded-md shadow-md transition-transform duration-500 ease-in-out hover:scale-110"
+                />
+              </div>
 
               <div
                 className={` popup w-full  h-[280px] shadow-xl rounded-md overflow-hidden sm:h-[260px] sm:w-[92%] p-4`}
