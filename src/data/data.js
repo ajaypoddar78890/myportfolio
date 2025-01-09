@@ -67,4 +67,12 @@ export const data = [
     link: "#",
     git: "https://github.com/ajaypoddar78890/AJ-AI-SASS",
   },
+  {
+    id: 9,
+    img: " assets/moredev.png",
+    title: "Moredev",
+    desc: "its a modern landing page",
+    link: "https://moredev.vercel.app/",
+    git: "https://github.com/ajaypoddar78890/peralexsaslandingpage",
+  },
 ];
